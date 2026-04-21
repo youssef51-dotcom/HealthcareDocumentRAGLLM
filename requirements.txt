@@ -1,0 +1,7 @@
+pymupdf==1.23.8
+faiss-cpu
+numpy
+sentence-transformers
+ollama
+openai
+requests
